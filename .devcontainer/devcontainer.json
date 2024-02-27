@@ -1,0 +1,16 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/prettier:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"PKief.material-icon-theme",
+				"figma.figma-vscode-extension",
+				"styled-components.vscode-styled-components",
+				"dbaeumer.vscode-eslint"
+			]
+		}
+	}
+}
