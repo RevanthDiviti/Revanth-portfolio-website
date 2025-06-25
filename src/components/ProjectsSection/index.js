@@ -98,7 +98,7 @@ function ProjectsSection() {
       </ProjectContainer>
       <ProjectsBtn>
         <a
-          href="https://github.com/vijaypotnuru"
+          href="https://github.com/RevanthDiviti"
           target="_blank"
           rel="noopener noreferrer"
         >
